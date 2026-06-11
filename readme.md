@@ -26,3 +26,6 @@ The model is trained on the **Breast Cancer Wisconsin (Diagnostic) Dataset** fro
 $$p(x) = \frac{1}{1 + e^{-(\beta_0 + \beta_1 x)}}$$
 
 the model found a **Sigmoid Function** that maps any real-valued input into an S-shaped curve bounded between 0 and 1, representing the probability.
+
+<img width="1875" height="806" alt="image" src="https://github.com/user-attachments/assets/8e50a4be-fb59-465e-944c-3d94fbe4dd4d" />
+
